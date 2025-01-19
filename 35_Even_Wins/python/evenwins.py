@@ -41,7 +41,7 @@ def print_intro() -> None:
     print("A player can take 1 to 4 marbles on their turn, and")
     print("turns cannot be skipped. The game ends when there are")
     print("no marbles left, and the winner is the one with an even")
-    print("number of marbles.")
+    print("number  of    marbles.")
     print()
 
 
